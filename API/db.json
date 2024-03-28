@@ -1,0 +1,19 @@
+{
+  "fieldWorker": [
+    {
+        "id": 1,
+      "name": "Anamika Mishra",
+      "taluka" : "Kolkata"
+    },
+    {
+        "id": 2,
+        "name": "Sam Mishra",
+        "taluka" : "Bangalore"
+    },
+    {
+        "id": 3,
+        "name": "Abhi Mishra",
+        "taluka" : "Hyderabad"
+    }
+  ]
+}
