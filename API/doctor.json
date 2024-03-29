@@ -1,0 +1,64 @@
+{
+    "doctor": [
+      {
+          "id": 1,
+        "name": "Dr. A Chris Deepak",
+        "taluka" : "Kolkata",
+        "specialization" : "Surgeon"
+      },
+      {
+          "id": 2,
+          "name": "Dr. Anil Pura Lingegowda",
+          "taluka" : "Bangalore",
+          "specialization" : "Orthopaedic"
+      },
+      {
+          "id": 3,
+          "name": "Dr. Anisha S. Tandon",
+          "taluka" : "Hyderabad",
+          "specialization" : "Opthalmologist"
+      },
+      {
+        "id": 4,
+        "name": "Dr. Jhansi Lakshmi Peddi",
+        "taluka" : "Jaipur",
+        "specialization" : "Opthalmologist"
+    },
+    {
+        "id": 5,
+        "name": "Dr. Vineet Gupta",
+        "taluka" : "Mumbai",
+        "specialization" : "Opthalmologist"
+    },
+    {
+        "id": 6,
+        "name": "Dr. Laxman F Mavarkar",
+        "taluka" : "Ahemdabad",
+        "specialization" : "Opthalmologist"
+    },
+    {
+        "id": 7,
+        "name": "Dr. Santhosh Bethur",
+        "taluka" : "Kolakata",
+        "specialization" : "Gynacologist"
+    },
+    {
+        "id": 8,
+        "name": "Dr. Shantanu Tandon",
+        "taluka" : "Kolakata",
+        "specialization" : "Dermatology"
+    },
+    {
+        "id": 9,
+        "name": "Dr. Shivakumar Sambargi",
+        "taluka" : "Kolakata",
+        "specialization" : "ENT Specialist"
+    },
+    {
+        "id": 10,
+        "name": "Dr. Shweta Kadaba",
+        "taluka" : "Kolakata",
+        "specialization" : "Paediatrician"
+    }
+    ]
+  }
